@@ -1,0 +1,37 @@
+// @import "normalize", "fonts", "mixins", "media", "variables", "utils", "globals";
+
+@import "./normalize";
+@import "./fonts";
+@import "./mixins";
+@import "./media";
+@import "./variables";
+@import "./utils";
+@import "./globals";
+
+@import "./blocks/button";
+@import "./blocks/grid";
+@import "./blocks/header";
+@import "./blocks/burger-button";
+@import "./blocks/mobile-overlay";
+@import "./blocks/cross-button";
+@import "./blocks/section";
+@import "./blocks/hero";
+@import "./blocks/puddle";
+@import "./blocks/service-card";
+@import "./blocks/services";
+@import "./blocks/banner";
+@import "./blocks/studies";
+@import "./blocks/process";
+@import "./blocks/team";
+@import "./blocks/team-card";
+@import "./blocks/pagination";
+@import "./blocks/reviews";
+@import "./blocks/review-card";
+@import "./blocks/field";
+@import "./blocks/radios";
+@import "./blocks/contact-us";
+@import "./blocks/radio";
+@import "./blocks/soc1als";
+@import "./blocks/sub-form";
+@import "./blocks/footer";
+
